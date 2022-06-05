@@ -96,3 +96,7 @@ De helling aan de achterkant is ~106 cm. Het hoogteverschil tussen de niveaus is
 ![](images/dubbel-ovaal1.png)
 
 **Dubbel ovaal**. Meer rijlengte. Sluit niet goed aan op module-overgangen. Module met fly-over nodig.
+
+![](images/dubbel-ovaal2.png)
+
+**Dubbel ovaal 2**. Meer rijlengte. Sluit *wel* goed aan op module-overgangen. Alleen voorste module is realistisch, de rest niet qua layout.
