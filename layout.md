@@ -62,6 +62,8 @@ Een Fleischmann wissel is 11.1 cm lang. Op een 76 cm Billy plank is dus ruimte v
 
 Een boogwissel heeft een hoek van 45 graden. Er past dus 1 wisselpaar in een 90-graden boog.
 
+De langste trein die ik verwacht te rijden (1600 + 3 ICR) is ~61 cm lang. Op een Billy plank van 76 cm zou er dan ruimte overblijven voor **1 wissel**. Stations zullen daarom vooral wissels in de bogen moeten plaatsen.
+
 ---
 
 Ook hellingen zijn erg moeilijk op een kleine oppervlakte.
