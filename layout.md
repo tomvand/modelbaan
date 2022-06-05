@@ -80,3 +80,19 @@ De minimale boog over 180 graden is **60 cm** lang.
 - Voor een enkele helling is **24 cm** extra nodig.
 
 ![](images/helling1.png)
+
+---
+
+**Grondvormen**
+
+![](images/ovaal1.png)
+**Ovaal**. Simpel. Past goed op losse modules.
+
+![](images/DubbelOvaal1.png)
+**Twee ovalen**. Meer variatie. Maar sluit niet goed aan op modules.
+
+De helling aan de achterkant is ~106 cm. Het hoogteverschil tussen de niveaus is daardoor ~6cm. Dat is genoeg om te kruisen, *maar te weinig voor een bereikbaar schaduwstation*. Daarvoor zou wel ruimte gemaakt kunnen worden op beide niveaus aan de achterkant van de baan.
+
+![](images/dubbel-ovaal1.png)
+
+**Dubbel ovaal**. Meer rijlengte. Sluit niet goed aan op module-overgangen. Module met fly-over nodig.
