@@ -1,2 +1,3 @@
 - [layout](layout.md)
+- [ideeën](ideeen.md)
 - [advies](advies.md)
